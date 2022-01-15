@@ -1,2 +1,5 @@
 # Housing_Prices_Competition_for_Kaggle_Learn_Users
-Apply data science pipelines automate the processes of data validation; extract, transform, load (ETL); machine learning and modeling; revision; and output.
+
+https://www.kaggle.com/c/home-data-for-ml-course
+
+Apply data science pipeline processes like data wrangling, data validation; extract, transform, load (ETL); machine learning and modeling; revision; and output.
